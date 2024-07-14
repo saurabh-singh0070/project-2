@@ -1,1 +1,2 @@
-console.log("ji");
+console.log("ji begam");
+console.log("ha");
